@@ -7,7 +7,7 @@
     "source": "117.130(a)"
   },
   {
-    "requirement_id": "REQ-HAZ-001b",
+    "requirement_id": "REQ-HAZ-001B",
     "parent": "REQ-HAZ-001",
     "description": "Hazard analysis shall include chemical hazards",
     "source": "117.130(b)"
